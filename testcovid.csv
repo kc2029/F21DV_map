@@ -1,23 +1,23 @@
-﻿name,date,case
-Afghanistan,07/03/2020,0.195
-Afghanistan,08/03/2020,0.195
-Afghanistan,09/03/2020,0.195
-Afghanistan,10/03/2020,0.195
-Afghanistan,11/03/2020,0.267
-Afghanistan,12/03/2020,0.267
-Afghanistan,13/03/2020,0.267
-Afghanistan,14/03/2020,0.34
-Afghanistan,15/03/2020,0.486
-Afghanistan,16/03/2020,0.608
-Afghanistan,17/03/2020,0.632
-Afghanistan,18/03/2020,0.632
-Afghanistan,19/03/2020,0.632
-Afghanistan,20/03/2020,0.584
-Afghanistan,21/03/2020,0.584
-Afghanistan,22/03/2020,0.827
-Afghanistan,23/03/2020,0.973
-Afghanistan,24/03/2020,1.021
-Afghanistan,25/03/2020,1.799
+country,date,case
+Afghanistan,17/01/2020,0.195
+Afghanistan,18/01/2020,0.195
+Afghanistan,19/01/2020,0.195
+Afghanistan,24/01/2020,0.195
+Afghanistan,11/02/2020,0.267
+Afghanistan,12/02/2020,0.267
+Afghanistan,13/02/2020,0.267
+Afghanistan,14/02/2020,0.34
+Afghanistan,15/02/2020,0.486
+Afghanistan,16/02/2020,0.608
+Afghanistan,17/02/2020,0.632
+Afghanistan,18/02/2020,0.632
+Afghanistan,19/02/2020,0.632
+Afghanistan,20/02/2020,0.584
+Afghanistan,21/02/2020,0.584
+Afghanistan,22/02/2020,0.827
+Afghanistan,23/02/2020,0.973
+Afghanistan,24/02/2020,1.021
+Afghanistan,25/02/2020,1.799
 South Korea,22/01/2020,0.286
 South Korea,23/01/2020,0.286
 South Korea,24/01/2020,0.476
